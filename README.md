@@ -2,6 +2,10 @@
 
 # ✅ To-Do List App 🚀✨
 
+![HTML](https://img.shields.io/badge/HTML5-orange)
+![CSS](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+
 ### "Manage your tasks easily and stay organized." 🗂️💡
 
 Too many things to remember every day? 🤯  
@@ -57,9 +61,9 @@ Clean, modern, and easy-to-use interface.
 
 ## 🛠️ Technologies Used 🛠️
 
-- HTML5  
-- CSS3  
-- JavaScript  
+  - HTML5  
+  - CSS3  
+  - JavaScript  
 
 ---
 
