@@ -61,10 +61,10 @@ Clean, modern, and easy-to-use interface.
 
 ## 🛠️ Technologies Used 🛠️
 
-  - HTML5  
-  - CSS3  
-  - JavaScript  
-
+- HTML5 – Structuring the app 🏗️
+- CSS3 – Styling & responsive design 🎨📱 
+- JavaScript – Interactive features & local storage ⚡⚙️
+ 
 ---
 
 ## 🤝 Contributing 🤝
